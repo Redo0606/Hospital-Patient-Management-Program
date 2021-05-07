@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "TP3.c"
+#include "Hospital_PM.c"
 
 
 int main ()
